@@ -7,8 +7,11 @@
 ## 🚀 About Me
 
 - 🎓 BSc Information Technology (Expected 2028) — **CPI 8.0 | Grade A**
-- 🧠 Learning AI/ML through hands-on project building — Supervised ML → Deep Learning → NLP → Computer Vision → Reinforcement Learning → GenAI
-- 💡 Completed: ML, Deep Learning (CNN, RNN, ANN), NLP, Computer Vision, Reinforcement Learning (Q-Learning, SARSA, DQN), Transformers, GenAI (T5 Fine-tuning)
+- 🧠 Learning AI/ML through hands-on project building — Supervised ML → Deep Learning → NLP → Computer Vision → Reinforcement Learning → GenAI,
+- 💡 Completed: ML, Deep Learning (CNN, RNN, ANN), NLP, Computer Vision, Reinforcement Learning (Q-Learning, SARSA, DQN), Transformers, GenAI (T5 Fine-tuning), RAG (LangChain + ChromaDB)
+
+🔭 Exploring Next: LangChain Agents, LLM Tool Use
+
 - 🔭 Exploring Next: RAG, LangChain, LLM Agents
 - 📍 Palanpur, Gujarat, India
 - 💼 Actively seeking **AI/ML Internship** (Remote)
@@ -36,9 +39,22 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
----
 
 ## 🔥 Featured Projects
+
+---
+
+### 🔍 RAG Pipeline — Research Paper Q&A
+> LangChain · ChromaDB · Groq (Qwen3-32b) · Sentence Transformers
+
+- Built end-to-end RAG pipeline from scratch — no pre-built abstractions
+- Local embeddings (all-MiniLM-L6-v2) + persistent ChromaDB vector store
+- LLM-agnostic architecture — supports Groq, OpenAI, Anthropic
+
+[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/paramramit305-a11y/RAG-Pipeline)
+
+---
+
 
 ### 🗣️ Text Summarizer — Fine-tuned T5 Transformer
 > HuggingFace Transformers · T5-small · FastAPI · Gradio · HuggingFace Spaces
@@ -52,17 +68,6 @@
 
 ---
 
-### 💳 CreditWise — ML Loan Approval System
-> Logistic Regression · Naive Bayes · KNN · Plotly · Streamlit
-
-- End-to-end ML pipeline on 1,000 loan applications with **28 engineered features**
-- Best model: **Logistic Regression — 88% Accuracy, F1-score 80.9%**
-- 4-page interactive Streamlit dashboard with real-time prediction & risk factor analysis
-
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/paramramit305-a11y/credit-risk-streamlit-app)
-[![Live App](https://img.shields.io/badge/Live-App-FF4B4B?style=flat-square&logo=streamlit)](https://credit-risk-app-app-qnfzw2ntuscz6f2nvssjmv.streamlit.app)
-
----
 
 ### 🎬 IMDb Sentiment Analysis — NLP + RNN
 > PyTorch · TF-IDF · NLTK · Streamlit
