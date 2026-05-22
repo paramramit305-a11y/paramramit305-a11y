@@ -7,12 +7,11 @@
 ## 🚀 About Me
 
 - 🎓 BSc Information Technology (Expected 2028) — **CPI 8.0 | Grade A**
-- 🧠 Learning AI/ML through hands-on project building — Supervised ML → Deep Learning → NLP → Computer Vision → Reinforcement Learning → GenAI,
+- 🧠 Learning AI/ML through hands-on project building — Supervised ML → Deep Learning → NLP → Computer Vision → Reinforcement Learning → GenAI
 - 💡 Completed: ML, Deep Learning (CNN, RNN, ANN), NLP, Computer Vision, Reinforcement Learning (Q-Learning, SARSA, DQN), Transformers, GenAI (T5 Fine-tuning), RAG (LangChain + ChromaDB)
 
 🔭 Exploring Next: LangChain Agents, LLM Tool Use
 
-- 🔭 Exploring Next: RAG, LangChain, LLM Agents
 - 📍 Palanpur, Gujarat, India
 - 💼 Actively seeking **AI/ML Internship** (Remote)
 
