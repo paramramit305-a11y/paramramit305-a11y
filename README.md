@@ -10,10 +10,10 @@
 - 🧠 Learning AI/ML through hands-on project building — Supervised ML → Deep Learning → NLP → Computer Vision → Reinforcement Learning → GenAI
 - 💡 Completed: ML, Deep Learning (CNN, RNN, ANN), NLP, Computer Vision, Reinforcement Learning (Q-Learning, SARSA, DQN), Transformers, GenAI (T5 Fine-tuning), RAG (LangChain + ChromaDB)
 
-🔭 Exploring Next: LangChain Agents, LLM Tool Use
+- 🔭 Exploring Next: LangChain Agents, LLM Tool Use
 
 - 📍 Palanpur, Gujarat, India
-- 💼 Actively seeking **AI/ML Internship** (Remote)
+- 💼 Actively seeking **AI/ML Internship** 
 
 ---
 
