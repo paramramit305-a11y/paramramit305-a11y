@@ -42,6 +42,7 @@
 ![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-FF6B35?style=flat-square&logo=python&logoColor=white)
 
 **GenAI & LLM**
+![RAG](https://img.shields.io/badge/RAG-FF4B4B?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
