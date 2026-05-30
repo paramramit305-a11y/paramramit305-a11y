@@ -9,7 +9,7 @@
 - 🎓 BSc Information Technology (Expected 2028) — **CPI 8.0 | Grade A**
 - 🧠 Learning AI/ML through hands-on project building — Supervised ML → Deep Learning → NLP → Computer Vision → GenAI → RAG → Flask + LLM Deployment
 - 💡 Completed: ML, Deep Learning (CNN, RNN, ANN), NLP, Computer Vision, Transformers, GenAI (T5 Fine-tuning), RAG (LangChain + ChromaDB), Flask + LLM API Integration
-- 🔭 Currently: GANs → Agentic AI (LangChain Agents)
+- 🔭 Currently: GANs → Agentic AI (Agno Framework)
 - 📍 Palanpur, Gujarat, India
 - 💼 Actively seeking **AI/ML Internship**
 
