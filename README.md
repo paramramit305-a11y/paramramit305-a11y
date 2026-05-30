@@ -1,19 +1,17 @@
 # Hi, I'm Amit Parmar 👋
 
-**AI/ML Enthusiast** | BSc IT @ Gokul Global University | Building real-world ML, Deep Learning & GenAI projects
+**AI/ML Engineer** | BSc IT @ Gokul Global University | Building real-world ML, Deep Learning & GenAI projects
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 BSc Information Technology (Expected 2028) — **CPI 8.0 | Grade A**
-- 🧠 Learning AI/ML through hands-on project building — Supervised ML → Deep Learning → NLP → Computer Vision → Reinforcement Learning → GenAI
-- 💡 Completed: ML, Deep Learning (CNN, RNN, ANN), NLP, Computer Vision, Reinforcement Learning (Q-Learning, SARSA, DQN), Transformers, GenAI (T5 Fine-tuning), RAG (LangChain + ChromaDB)
-
-- 🔭 Exploring Next: LangChain Agents, LLM Tool Use
-
+- 🧠 Learning AI/ML through hands-on project building — Supervised ML → Deep Learning → NLP → Computer Vision → GenAI → RAG → Flask + LLM Deployment
+- 💡 Completed: ML, Deep Learning (CNN, RNN, ANN), NLP, Computer Vision, Transformers, GenAI (T5 Fine-tuning), RAG (LangChain + ChromaDB), Flask + LLM API Integration
+- 🔭 Currently: GANs → Agentic AI (LangChain Agents)
 - 📍 Palanpur, Gujarat, India
-- 💼 Actively seeking **AI/ML Internship** 
+- 💼 Actively seeking **AI/ML Internship**
 
 ---
 
@@ -28,7 +26,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Supervised ML](https://img.shields.io/badge/Supervised--ML-FF6600?style=flat-square&logo=python&logoColor=white)
-![Unsupervised ML](https://img.shields.io/badge/Unsupervised--ML-6B8E23?style=flat-square&logo=python&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -49,17 +46,31 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
 
-**Deployment & Tools**
+**Web & Deployment**
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+---
 
 ## 🔥 Featured Projects
+
+---
+
+### 🤖 AI Personal Assistant — Flask + Groq API
+> Flask · Groq API · LLaMA 4 Scout 17B · Python · REST API · HTML/CSS/JS
+
+- Built and deployed a Flask-based AI web app powered by Groq API (LLaMA 4 Scout 17B)
+- Features: **Ask Anything** (instant AI-powered answers) + **Email Summarizer** (2-3 sentence summaries)
+- Integrated OpenAI-compatible Groq SDK, secured API keys with `.env`, deployed on Render using Gunicorn
+
+[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/paramramit305-a11y/ai-personal-assistant)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-46E3B7?style=flat-square&logo=render&logoColor=white)](https://ai-personal-assistant-u5wj.onrender.com)
 
 ---
 
@@ -67,13 +78,12 @@
 > LangChain · ChromaDB · Groq (Qwen3-32b) · Sentence Transformers
 
 - Built end-to-end RAG pipeline from scratch — no pre-built abstractions
-- Local embeddings (all-MiniLM-L6-v2) + persistent ChromaDB vector store
-- LLM-agnostic architecture — supports Groq, OpenAI, Anthropic
+- Local embeddings (all-MiniLM-L6-v2) + persistent ChromaDB vector store — zero API cost
+- LLM-agnostic architecture — supports Groq, OpenAI, Anthropic via LangChain
 
 [![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/paramramit305-a11y/RAG-Pipeline)
 
 ---
-
 
 ### 🗣️ Text Summarizer — Fine-tuned T5 Transformer
 > HuggingFace Transformers · T5-small · FastAPI · Gradio · HuggingFace Spaces
@@ -87,7 +97,6 @@
 
 ---
 
-
 ### 🎬 IMDb Sentiment Analysis — NLP + RNN
 > PyTorch · TF-IDF · NLTK · Streamlit
 
@@ -99,8 +108,6 @@
 [![Live App](https://img.shields.io/badge/Live-App-FF4B4B?style=flat-square&logo=streamlit)](https://rnn-sentiment-analysis-4hsztw5c8vmuisxlyxxpqs.streamlit.app)
 
 ---
-
-
 
 ## 📊 GitHub Stats
 
