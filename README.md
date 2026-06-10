@@ -97,17 +97,6 @@
 
 ---
 
-### 🎬 IMDb Sentiment Analysis — NLP + RNN
-> PyTorch · TF-IDF · NLTK · Streamlit
-
-- NLP pipeline on **50,000 IMDb reviews** — Preprocessing → TF-IDF → PyTorch RNN
-- Predicts Positive/Negative sentiment with **99.99% confidence** on clear reviews
-- Deployed as live Streamlit web app
-
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/paramramit305-a11y/rnn-sentiment-analysis)
-[![Live App](https://img.shields.io/badge/Live-App-FF4B4B?style=flat-square&logo=streamlit)](https://rnn-sentiment-analysis-4hsztw5c8vmuisxlyxxpqs.streamlit.app)
-
----
 
 ## 📊 GitHub Stats
 
