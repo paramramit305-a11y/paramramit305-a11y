@@ -1,117 +1,29 @@
-# Hi, I'm Amit Parmar 👋
+# Amit Parmar
 
-**AI/ML Engineer** | BSc IT @ Gokul Global University | Building real-world ML, GenAI & Agentic AI projects
+AI/ML engineer in training — BSc IT student building GenAI and agentic systems, end to end, from model logic to deployment.
 
----
-
-## 🚀 About Me
-
-- 🎓 BSc Information Technology (Expected 2028) — **CPI 8.0 | Grade A**
-- 🧠 Learning AI/ML through hands-on project building — Supervised ML → Deep Learning → NLP → Computer Vision → GenAI → RAG → Agentic AI → Flask + LLM Deployment
-- 💡 Completed: ML, Deep Learning (CNN, RNN, ANN), NLP, Computer Vision, Transformers, GenAI (T5 Fine-tuning), RAG (LangChain + ChromaDB), Agentic AI (Agno framework — tool-using agents, memory, multi-agent teams), Flask + LLM API Integration
-- 🔭 Currently deepening my work on agentic systems and exploring production-grade deployment patterns
-- 📍 Palanpur, Gujarat, India
-- 💼 Actively seeking **AI/ML Internship** — Ahmedabad or remote
+📍 Palanpur, Gujarat · Open to AI/ML internships (Ahmedabad or remote)
 
 ---
 
-## 🛠️ Tech Stack
+## What I work with
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+**Core:** Python, PyTorch, LangChain, ChromaDB, Agno, Groq/OpenAI/Anthropic APIs, Flask, Streamlit
 
-**ML & Deep Learning**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Supervised ML](https://img.shields.io/badge/Supervised--ML-FF6600?style=flat-square&logo=python&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-
-**NLP**
-![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat-square&logo=python&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-FF6B35?style=flat-square&logo=python&logoColor=white)
-
-**GenAI, RAG & Agentic AI**
-![RAG](https://img.shields.io/badge/RAG-FF4B4B?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
-![Agno](https://img.shields.io/badge/Agno-7C3AED?style=flat-square&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
-
-**Web & Deployment**
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+I came up through the standard ML path (supervised learning, CNNs, RNNs) but spend most of my time now on RAG pipelines and agentic systems — the last project I shipped was an Agno-based agent, not a classical model.
 
 ---
 
-## 🔥 Featured Projects
+## A few things I've built
+
+**[YouTube Video Analyzer](https://github.com/paramramit305-a11y/agentic-ai-youtube-analyzer)** — an Agno agent that takes a YouTube link and returns a timestamped breakdown, using tool calls instead of a single prompt-and-summarize pass. [Live](https://agentic-ai-youtube-analyzer.streamlit.app)
+
+**[RAG Pipeline](https://github.com/paramramit305-a11y/RAG-Pipeline)** — document Q&A built from scratch with LangChain + ChromaDB, no pre-built RAG abstractions. Runs on local embeddings, zero API cost for retrieval.
+
+**[AI Personal Assistant](https://github.com/paramramit305-a11y/ai-personal-assistant)** — Flask app on Groq's API, in production on Render. [Live](https://ai-personal-assistant-u5wj.onrender.com)
+
+More on my [pinned repos](https://github.com/paramramit305-a11y?tab=repositories) — a couple of earlier classical ML projects (loan approval, sentiment analysis) are there too.
 
 ---
 
-### 📺 YouTube Video Analyzer — Agentic AI
-> Agno · Groq · Streamlit · YouTubeTools
-
-- Built a tool-using agent (Agno framework) that analyzes YouTube videos end-to-end — fetches transcript and metadata via a custom tool, then follows a multi-step instruction set to produce timestamped breakdowns, key themes, and learning points
-- Identified a real production constraint (YouTube blocks transcript requests from cloud-provider IPs) and implemented a graceful metadata-only fallback instead of failing silently
-- Deployed live on Streamlit Community Cloud
-
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/paramramit305-a11y/agentic-ai-youtube-analyzer)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://agentic-ai-youtube-analyzer.streamlit.app)
-
----
-
-### 🔍 RAG Pipeline — Research Paper Q&A
-> LangChain · ChromaDB · Groq (Qwen3-32b) · Sentence Transformers
-
-- Built end-to-end RAG pipeline from scratch — no pre-built abstractions
-- Local embeddings (all-MiniLM-L6-v2) + persistent ChromaDB vector store — zero API cost
-- LLM-agnostic architecture via LangChain (Groq, OpenAI, Anthropic compatible) — actively running on Groq
-
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/paramramit305-a11y/RAG-Pipeline)
-
----
-
-### 🤖 AI Personal Assistant — Flask + Groq API
-> Flask · Groq API · LLaMA 4 Scout 17B · Python · REST API · HTML/CSS/JS
-
-- Built and deployed a Flask-based AI web app powered by Groq API (LLaMA 4 Scout 17B)
-- Features: **Ask Anything** (instant AI-powered answers) + **Email Summarizer** (2-3 sentence summaries)
-- Integrated OpenAI-compatible Groq SDK, secured API keys with `.env`, deployed on Render using Gunicorn
-
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/paramramit305-a11y/ai-personal-assistant)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-46E3B7?style=flat-square&logo=render&logoColor=white)](https://ai-personal-assistant-u5wj.onrender.com)
-
----
-
-## 📊 GitHub Stats
-
-![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paramramit305-a11y&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paramramit305-a11y&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parmar-amit-97941a377)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/parmar-amit)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/paramramit305-a11y)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:paramramit305@gmail.com)
-
----
-
-> *"Building in public, one project at a time."* 🚀
+[LinkedIn](https://www.linkedin.com/in/parmar-amit-97941a377) · [HuggingFace](https://huggingface.co/parmar-amit) · paramramit305@gmail.com
