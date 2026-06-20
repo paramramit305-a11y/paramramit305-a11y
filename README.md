@@ -1,17 +1,17 @@
 # Hi, I'm Amit Parmar 👋
 
-**AI/ML Engineer** | BSc IT @ Gokul Global University | Building real-world ML, Deep Learning & GenAI projects
+**AI/ML Engineer** | BSc IT @ Gokul Global University | Building real-world ML, GenAI & Agentic AI projects
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 BSc Information Technology (Expected 2028) — **CPI 8.0 | Grade A**
-- 🧠 Learning AI/ML through hands-on project building — Supervised ML → Deep Learning → NLP → Computer Vision → GenAI → RAG → Flask + LLM Deployment
-- 💡 Completed: ML, Deep Learning (CNN, RNN, ANN), NLP, Computer Vision, Transformers, GenAI (T5 Fine-tuning), RAG (LangChain + ChromaDB), Flask + LLM API Integration
-- 🔭 Currently: GANs → Agentic AI (Agno Framework)
+- 🧠 Learning AI/ML through hands-on project building — Supervised ML → Deep Learning → NLP → Computer Vision → GenAI → RAG → Agentic AI → Flask + LLM Deployment
+- 💡 Completed: ML, Deep Learning (CNN, RNN, ANN), NLP, Computer Vision, Transformers, GenAI (T5 Fine-tuning), RAG (LangChain + ChromaDB), Agentic AI (Agno framework — tool-using agents, memory, multi-agent teams), Flask + LLM API Integration
+- 🔭 Currently deepening my work on agentic systems and exploring production-grade deployment patterns
 - 📍 Palanpur, Gujarat, India
-- 💼 Actively seeking **AI/ML Internship**
+- 💼 Actively seeking **AI/ML Internship** — Ahmedabad or remote
 
 ---
 
@@ -38,10 +38,11 @@
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-FF6B35?style=flat-square&logo=python&logoColor=white)
 
-**GenAI & LLM**
+**GenAI, RAG & Agentic AI**
 ![RAG](https://img.shields.io/badge/RAG-FF4B4B?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
+![Agno](https://img.shields.io/badge/Agno-7C3AED?style=flat-square&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
@@ -62,6 +63,29 @@
 
 ---
 
+### 📺 YouTube Video Analyzer — Agentic AI
+> Agno · Groq · Streamlit · YouTubeTools
+
+- Built a tool-using agent (Agno framework) that analyzes YouTube videos end-to-end — fetches transcript and metadata via a custom tool, then follows a multi-step instruction set to produce timestamped breakdowns, key themes, and learning points
+- Identified a real production constraint (YouTube blocks transcript requests from cloud-provider IPs) and implemented a graceful metadata-only fallback instead of failing silently
+- Deployed live on Streamlit Community Cloud
+
+[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/paramramit305-a11y/agentic-ai-youtube-analyzer)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://agentic-ai-youtube-analyzer.streamlit.app)
+
+---
+
+### 🔍 RAG Pipeline — Research Paper Q&A
+> LangChain · ChromaDB · Groq (Qwen3-32b) · Sentence Transformers
+
+- Built end-to-end RAG pipeline from scratch — no pre-built abstractions
+- Local embeddings (all-MiniLM-L6-v2) + persistent ChromaDB vector store — zero API cost
+- LLM-agnostic architecture via LangChain (Groq, OpenAI, Anthropic compatible) — actively running on Groq
+
+[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/paramramit305-a11y/RAG-Pipeline)
+
+---
+
 ### 🤖 AI Personal Assistant — Flask + Groq API
 > Flask · Groq API · LLaMA 4 Scout 17B · Python · REST API · HTML/CSS/JS
 
@@ -73,30 +97,6 @@
 [![Live Demo](https://img.shields.io/badge/Live-Demo-46E3B7?style=flat-square&logo=render&logoColor=white)](https://ai-personal-assistant-u5wj.onrender.com)
 
 ---
-
-### 🔍 RAG Pipeline — Research Paper Q&A
-> LangChain · ChromaDB · Groq (Qwen3-32b) · Sentence Transformers
-
-- Built end-to-end RAG pipeline from scratch — no pre-built abstractions
-- Local embeddings (all-MiniLM-L6-v2) + persistent ChromaDB vector store — zero API cost
-- LLM-agnostic architecture — supports Groq, OpenAI, Anthropic via LangChain
-
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/paramramit305-a11y/RAG-Pipeline)
-
----
-
-### 🗣️ Text Summarizer — Fine-tuned T5 Transformer
-> HuggingFace Transformers · T5-small · FastAPI · Gradio · HuggingFace Spaces
-
-- Fine-tuned **Google T5-small** on SAMSum dataset (13,168 real conversations)
-- Full Seq2Seq pipeline: tokenization → training → beam search decoding → deployment
-- REST API with FastAPI + interactive UI with Gradio — deployed on HuggingFace Spaces
-
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/paramramit305-a11y/text-summarizer-t5-finetune)
-[![Live App](https://img.shields.io/badge/HuggingFace-Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/parmar-amit/text-summarizer)
-
----
-
 
 ## 📊 GitHub Stats
 
