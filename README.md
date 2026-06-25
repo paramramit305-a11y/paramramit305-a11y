@@ -8,8 +8,8 @@ AI/ML engineer in training — BSc IT student (Gokul Global University) building
 
 ### Currently
 
-- Sharpening my agentic AI work — tool-using agents, persistent memory, multi-agent coordination (Agno framework)
-- Going deeper on RAG and retrieval-grounded systems beyond my first pipeline
+- Completed a self-correcting RAG system (CRAG) using LangGraph — per-document grading, query reformulation, live web search fallback, deployed on Streamlit
+- Going deeper on agentic systems — tool-using agents, persistent memory, multi-agent coordination (Agno framework)
 - Applying for my first AI/ML internship
 
 ---
@@ -18,15 +18,29 @@ AI/ML engineer in training — BSc IT student (Gokul Global University) building
 
 **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**GenAI & Agentic:** ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white) ![Agno](https://img.shields.io/badge/Agno-7C3AED?style=flat-square&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+**GenAI & Agentic:**
+![LangGraph](https://img.shields.io/badge/LangGraph-state_machine-1C3C3C?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
+![Agno](https://img.shields.io/badge/Agno-7C3AED?style=flat-square&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-**LLM APIs:** ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
+**LLM APIs:**
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
 
-**Deployment:** ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace_Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+**Deployment:**
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace_Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 ---
 
 ### Featured projects
+
+**[CRAG — Corrective RAG Research Assistant](https://github.com/paramramit305-a11y/crag-research-assistant)** — Self-correcting RAG built with LangGraph: grades each retrieved document individually, reformulates queries on ambiguous results, falls back to live Tavily web search when local docs fail. Every response tells you whether the answer came from the vector store or the web. · [Live](https://crag-research-assistant.streamlit.app)
 
 **[YouTube Video Analyzer](https://github.com/paramramit305-a11y/agentic-ai-youtube-analyzer)** — Agno agent that takes a YouTube link and returns a timestamped breakdown using tool calls, not a single prompt. · [Live](https://agentic-ai-youtube-analyzer.streamlit.app)
 
